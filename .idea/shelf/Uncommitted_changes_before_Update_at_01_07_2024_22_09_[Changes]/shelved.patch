@@ -1,0 +1,46 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"NONE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96d5ca07-e232-4b9d-ac18-6af0b27072d0\" name=\"Changes\" comment=\"Videos from santasarah\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClangdSettings\">\n    <option name=\"formatViaClangd\" value=\"false\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Kotlin File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"RESET_MODE\" value=\"HARD\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Hkwln&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/Hkwln/Ble-AudioApp.git&quot;,\n    &quot;accountId&quot;: &quot;22afb01d-0386-47f2-ae1c-f2c6259d48d7&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 5\n}</component>\n  <component name=\"ProjectId\" id=\"2iWXcCB6ANZw644hDYI8GnWKTac\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,\n    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,\n    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96d5ca07-e232-4b9d-ac18-6af0b27072d0\" name=\"Changes\" comment=\"\" />\n      <created>1719607383167</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1719607383167</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719607721984</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719607721984</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719679437604</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719679437604</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719679480089</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719679480089</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719831038101</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719831038101</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719831173068</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719831173068</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Testet a few totaly basic kotlin code\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719831819756</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719831819757</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Videos from santasarah\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1719862474660</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1719862474660</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"updated README.md\" />\n    <MESSAGE value=\"Testet a few totaly basic kotlin code\" />\n    <MESSAGE value=\"Videos from santasarah\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Videos from santasarah\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9fc8c8c08024d30d8c33ca17009e8e3ce201dc1b)
++++ b/.idea/workspace.xml	(date 1719864201824)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="Videos from santasarah">
++    <list default="true" id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="just another update">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -123,7 +123,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1719862474660</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="just another update">
++      <option name="closed" value="true" />
++      <created>1719863513531</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1719863513531</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -141,6 +149,7 @@
+     <MESSAGE value="updated README.md" />
+     <MESSAGE value="Testet a few totaly basic kotlin code" />
+     <MESSAGE value="Videos from santasarah" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Videos from santasarah" />
++    <MESSAGE value="just another update" />
++    <option name="LAST_COMMIT_MESSAGE" value="just another update" />
+   </component>
+ </project>
+\ No newline at end of file
