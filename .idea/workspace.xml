@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f90ed4-c028-43c2-9560-82ba4130662e" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="updated README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testfile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Testfile.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,130 +16,99 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Paulxocmd &lt;sibila.paul2@gmail.com&gt;" />
-        <option value="Hkwln &lt;156712077+hkwln@users.noreply.github.com&gt;" />
+        <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Paulxocmd&quot;
+    &quot;assignee&quot;: &quot;Hkwln&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Hkwln/Ble-AudioApp.git&quot;,
-    &quot;accountId&quot;: &quot;904fcc90-d858-4010-a42b-a87226cd7fba&quot;
+    &quot;accountId&quot;: &quot;22afb01d-0386-47f2-ae1c-f2c6259d48d7&quot;
   }
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2iWWrJEOyrbZ9LV4TozFRioJT9G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2iWXcCB6ANZw644hDYI8GnWKTac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tosib/AndroidStudioProjects/Ble-AudioApp&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1f90ed4-c028-43c2-9560-82ba4130662e" name="Changes" comment="" />
-      <created>1719607010265</created>
+      <changelist id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="" />
+      <created>1719607383167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719607010265</updated>
+      <updated>1719607383167</updated>
     </task>
-    <task id="LOCAL-00001" summary="Update README.md">
+    <task id="LOCAL-00001" summary="updated README.md">
       <option name="closed" value="true" />
-      <created>1719607398550</created>
+      <created>1719607721984</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1719607398550</updated>
+      <updated>1719607721984</updated>
     </task>
-    <task id="LOCAL-00002" summary="Update README.md&#10;&#10;Signed-off-by: Paulxocmd &lt;sibila.Paul2@gmail.com&gt;">
+    <task id="LOCAL-00002" summary="updated README.md">
       <option name="closed" value="true" />
-      <created>1719607407160</created>
+      <created>1719679437604</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1719607407161</updated>
+      <updated>1719679437604</updated>
     </task>
-    <task id="LOCAL-00003" summary="Update README.md&#10;&#10;Signed-off-by: Paulxocmd &lt;sibila.Paul2@gmail.com&gt;">
+    <task id="LOCAL-00003" summary="updated README.md">
       <option name="closed" value="true" />
-      <created>1719607446567</created>
+      <created>1719679480089</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1719607446567</updated>
+      <updated>1719679480089</updated>
     </task>
-    <task id="LOCAL-00004" summary="Update README.md&#10;&#10;Signed-off-by: Paulxocmd &lt;sibila.Paul2@gmail.com&gt;">
+    <task id="LOCAL-00004" summary="updated README.md">
       <option name="closed" value="true" />
-      <created>1719607455682</created>
+      <created>1719831038101</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1719607455682</updated>
+      <updated>1719831038101</updated>
     </task>
-    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+    <task id="LOCAL-00005" summary="updated README.md">
       <option name="closed" value="true" />
-      <created>1719607484805</created>
+      <created>1719831173068</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1719607484805</updated>
+      <updated>1719831173068</updated>
     </task>
-    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1719607541079</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1719607541079</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1719607775335</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1719607775335</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1719607791264</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1719607791264</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,11 +123,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update README.md" />
-    <MESSAGE value="Update README.md&#10;&#10;Signed-off-by: Paulxocmd &lt;sibila.Paul2@gmail.com&gt;" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;Signed-off-by: Paulxocmd &lt;sibila.Paul2@gmail.com&gt;" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
   </component>
 </project>
