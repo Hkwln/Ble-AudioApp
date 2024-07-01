@@ -1,4 +1,5 @@
 fun main(){
-    var Hello: String? = "Tatsache"
-    println(Hello)
+    val h = 2
+    h+1
+    println(h)
 }
