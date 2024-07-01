@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="Videos from santasarah">
+    <list default="true" id="96d5ca07-e232-4b9d-ac18-6af0b27072d0" name="Changes" comment="updated README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testfile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Testfile.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,23 +108,7 @@
       <option name="project" value="LOCAL" />
       <updated>1719831173068</updated>
     </task>
-    <task id="LOCAL-00006" summary="Testet a few totaly basic kotlin code">
-      <option name="closed" value="true" />
-      <created>1719831819756</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1719831819757</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Videos from santasarah">
-      <option name="closed" value="true" />
-      <created>1719862474660</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1719862474660</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,8 +124,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated README.md" />
-    <MESSAGE value="Testet a few totaly basic kotlin code" />
-    <MESSAGE value="Videos from santasarah" />
-    <option name="LAST_COMMIT_MESSAGE" value="Videos from santasarah" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
   </component>
 </project>
