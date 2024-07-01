@@ -6,3 +6,6 @@ todo:
 -https://youtu.be/mjDDJ3HaBGg
 -https://youtu.be/ZCs6SXIiObU
 -https://youtu.be/TJ2AlSdMGL4
+
+ultimate guide to ble:
+- https://punchthrough.com/android-ble-guide/
