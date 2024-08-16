@@ -9,3 +9,7 @@ todo:
 
 ultimate guide to ble:
 - https://punchthrough.com/android-ble-guide/
+
+context.kt = checken ob Ble Berechtigung gewährt wurde
+
+bitte beim context.kt file noch den button freischalten wenn er fertig programmiert ist!
