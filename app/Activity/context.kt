@@ -22,3 +22,61 @@ fun Context.hasRequiredBluetoothPermissions(): Boolean {
         hasPermission(Manifest.permission.ACCESS_FINE_LOCATION)
     }
 }
+private fun startBleScan() {
+    if (!hasRequiredBluetoothPermissions()) {
+        requestRelevantRuntimePermissions()
+    } else { /* TODO: Actually perform scan */ }
+}
+
+private fun Activity.requestRelevantRuntimePermissions() {
+    if (hasRequiredBluetoothPermissions()) { return }
+    when {
+        Build.VERSION.SDK_INT < Build.VERSION_CODES.S -> {
+            requestLocationPermission()
+        }
+        Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
+            requestBluetoothPermissions()
+        }
+    }
+}
+
+private fun requestLocationPermission() = runOnUiThread {
+    AlertDialog.Builder(this)
+        .setTitle("Location permission required")
+        .setMessage(
+            "Starting from Android M (6.0), the system requires apps to be granted " +
+            "location access in order to scan for BLE devices."
+        )
+        .setCancelable(false)
+        .setPositiveButton(android.R.string.ok) { _, _ ->
+            ActivityCompat.requestPermissions(
+                this,
+                arrayOf(Manifest.permission.ACCESS_FINE_LOCATION),
+                PERMISSION_REQUEST_CODE
+            )
+        }
+        .show()
+}
+
+@RequiresApi(Build.VERSION_CODES.S)
+private fun requestBluetoothPermissions() = runOnUiThread {
+    AlertDialog.Builder(this)
+        .setTitle("Bluetooth permission required")
+        .setMessage(
+            "Starting from Android 12, the system requires apps to be granted " +
+                "Bluetooth access in order to scan for and connect to BLE devices."
+        )
+        .setCancelable(false)
+        .setPositiveButton(android.R.string.ok) { _, _ ->
+            ActivityCompat.requestPermissions(
+                this,
+                arrayOf(
+                    Manifest.permission.BLUETOOTH_SCAN,
+                    Manifest.permission.BLUETOOTH_CONNECT
+                ),
+                PERMISSION_REQUEST_CODE
+            )
+        }
+        .show()
+    }
+}
