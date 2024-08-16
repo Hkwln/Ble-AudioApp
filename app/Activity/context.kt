@@ -80,3 +80,36 @@ private fun requestBluetoothPermissions() = runOnUiThread {
         .show()
     }
 }
+
+override fun onRequestPermissionsResult(
+    requestCode: Int,
+    permissions: Array<out String>,
+    grantResults: IntArray
+) {
+    super.onRequestPermissionsResult(requestCode, permissions, grantResults)
+    if (requestCode != PERMISSION_REQUEST_CODE) return
+
+    val containsPermanentDenial = permissions.zip(grantResults.toTypedArray()).any {
+        it.second == PackageManager.PERMISSION_DENIED &&
+            !ActivityCompat.shouldShowRequestPermissionRationale(this, it.first)
+    }
+    val containsDenial = grantResults.any { it == PackageManager.PERMISSION_DENIED }
+    val allGranted = grantResults.all { it == PackageManager.PERMISSION_GRANTED }
+    when {
+        containsPermanentDenial -> {
+            // TODO: Handle permanent denial (e.g., show AlertDialog with justification)
+            // Note: The user will need to navigate to App Settings and manually grant
+            // permissions that were permanently denied
+        }
+        containsDenial -> {
+            requestRelevantRuntimePermissions()
+        }
+        allGranted && hasRequiredBluetoothPermissions() -> {
+            startBleScan()
+        }
+        else -> {
+            // Unexpected scenario encountered when handling permissions
+            recreate()
+        }
+    }
+}
