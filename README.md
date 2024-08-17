@@ -11,5 +11,6 @@ ultimate guide to ble:
 - https://punchthrough.com/android-ble-guide/
 
 context.kt = checken ob Ble Berechtigung gewährt wurde
+scanning.kt = nach den verfügbaren Bluetooth LE geräten suchen
 
 bitte beim context.kt file noch den button freischalten wenn er fertig programmiert ist!
