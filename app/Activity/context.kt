@@ -25,7 +25,9 @@ fun Context.hasRequiredBluetoothPermissions(): Boolean {
 private fun startBleScan() {
     if (!hasRequiredBluetoothPermissions()) {
         requestRelevantRuntimePermissions()
-    } else { /* TODO: Actually perform scan */ }
+    } else { 
+        bleScanner.startScan(null, Scansettings, scancallback)
+    }
 }
 
 private fun Activity.requestRelevantRuntimePermissions() {

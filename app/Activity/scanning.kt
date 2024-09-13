@@ -20,5 +20,4 @@ private val scancallback = object :ScanCallback(){
             Log.i("ScanCallback","BLE Gerät gefunden! Name ${name ?: "Unnamed"}, address: $address")
         }
     }
-}
-//jetzt gehts an die start BLEscann function :)
+} 
