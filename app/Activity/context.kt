@@ -1,4 +1,4 @@
-private const val PERMISSION_REQUEST_CODE =1
+private const val PERMISSION_REQUEST_CODE = 1
 
 /** Haben Wir nen Button um BLE zu öffnen, dann entkommentiere dies:
  scanButton.setOnClickListener { startBleScan() } oder schreibe selbst ein programm, was beim buttonclick schaut, ob die Permission gegeben wurde*/
@@ -26,7 +26,7 @@ private fun startBleScan() {
     if (!hasRequiredBluetoothPermissions()) {
         requestRelevantRuntimePermissions()
     } else { 
-        bleScanner.startScan(null, Scansettings, scancallback)
+        bleScanner.startScan(null, scanSettings, scanCallback)
     }
 }
 
@@ -80,7 +80,6 @@ private fun requestBluetoothPermissions() = runOnUiThread {
             )
         }
         .show()
-    }
 }
 
 override fun onRequestPermissionsResult(
